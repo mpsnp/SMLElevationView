@@ -1,6 +1,6 @@
 # SMLElevationView
 
-[![CI Status](http://img.shields.io/travis/George Kiriy/SMLElevationView.svg?style=flat)](https://travis-ci.org/George Kiriy/SMLElevationView)
+[![CI Status](http://img.shields.io/travis/mpsnp/SMLElevationView.svg?style=flat)](https://travis-ci.org/mpsnp/SMLElevationView)
 [![Version](https://img.shields.io/cocoapods/v/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 [![License](https://img.shields.io/cocoapods/l/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 [![Platform](https://img.shields.io/cocoapods/p/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
