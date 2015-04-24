@@ -1,11 +1,11 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 target 'SMLElevationView', :exclusive => true do
-  pod "SMLElevationView", :path => "../"
+  pod "SMLElevationView"
 end
 
 target 'Tests', :exclusive => true do
-  pod "SMLElevationView", :path => "../"
+  pod "SMLElevationView"
 
   pod 'FBSnapshotTestCase'
 end
