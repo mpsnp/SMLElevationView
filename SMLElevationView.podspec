@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SMLElevationView"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "View for display elevation profile of path."
   # s.description      = <<-DESC
   #                     DESC
