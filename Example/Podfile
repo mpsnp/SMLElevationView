@@ -1,5 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
-
+use_frameworks!
 target 'SMLElevationView', :exclusive => true do
   pod "SMLElevationView", :path => "../"
 end
