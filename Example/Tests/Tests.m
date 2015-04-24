@@ -6,4 +6,3 @@
 //  Copyright (c) 2014 George Kiriy. All rights reserved.
 //
 
-${TEST_EXAMPLE}
