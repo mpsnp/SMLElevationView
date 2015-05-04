@@ -32,7 +32,7 @@ View supports resizing and was designed for use with autolayout.
 
                        DESC
   s.homepage         = "https://github.com/mpsnp/SMLElevationView"
-  s.screenshots      = "http://i58.fastpic.ru/big/2015/0504/15/744f7335aa266abaae4dee3dab4a5d15.png", "http://i58.fastpic.ru/big/2015/0504/26/cd94a2690841b4e7c83aee5f784c8f26.png"
+  s.screenshots      = "http://i57.fastpic.ru/big/2015/0504/cd/32ec673495aaba27bc6b3b74e40609cd.png", "http://i57.fastpic.ru/big/2015/0504/ed/a15997f92836aaf5f8212cbd7e4543ed.png"
   s.license          = 'MIT'
   s.author           = { "George Kiriy" => "gkiriy@smedialink.com" }
   s.source           = { :git => "https://github.com/mpsnp/SMLElevationView.git", :tag => s.version.to_s }

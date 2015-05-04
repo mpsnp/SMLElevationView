@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 [![Platform](https://img.shields.io/cocoapods/p/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 
-![Screenshot](http://i58.fastpic.ru/big/2015/0504/15/744f7335aa266abaae4dee3dab4a5d15.png)
+![Screenshot](http://i57.fastpic.ru/big/2015/0504/ed/a15997f92836aaf5f8212cbd7e4543ed.png)
 
 View was designed for displaying elevation profile of trip. It is fully configurable, you can:
 
