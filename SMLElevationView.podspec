@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SMLElevationView"
-  s.version          = "0.1.2"
+  s.version          = "0.1.3"
   s.summary          = "View for display elevation profile of trip."
   s.description      = <<-DESC
 
@@ -48,5 +48,4 @@ View supports resizing and was designed for use with autolayout.
 
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'CoreLocation'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
