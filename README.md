@@ -5,11 +5,24 @@
 [![License](https://img.shields.io/cocoapods/l/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 [![Platform](https://img.shields.io/cocoapods/p/SMLElevationView.svg?style=flat)](http://cocoapods.org/pods/SMLElevationView)
 
-## Usage
+![Screenshot](http://i58.fastpic.ru/big/2015/0504/15/744f7335aa266abaae4dee3dab4a5d15.png)
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+View was designed for displaying elevation profile of trip. It is fully configurable, you can:
 
-## Requirements
+- Change colors of
+	- Labels'
+	- Grid
+	- Stroke of profile
+	- Fill of profile
+- Change widths of
+	- Grid lines
+	- Profile line
+- Switch between metric and imperial units.
+- Specify how many horisontal and vertical lines of grid you need
+
+View is `IB_DESIGNABLE` and all of its key properties are `IBInspectable`.
+
+View supports resizing and was designed for use with autolayout.
 
 ## Installation
 
